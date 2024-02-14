@@ -1,9 +1,9 @@
 {
+  "homepage": "https://Anshika1sharma.github.io/TrackExpense",
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Anshika1sharma/expenseTracker",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
