@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import { Link } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
 import "./login.css";
 
@@ -94,7 +93,7 @@ const LoginPage = () => {
 
     <div>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="true" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
     <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet" />
     </div>
     </div>
